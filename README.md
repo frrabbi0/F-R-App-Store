@@ -1,7 +1,9 @@
-<h6>hey welcome f r app store 🙂</h6>
+### hey welcome f r app store
 
-#Download !
-
-<a href="#">Fake bKash Screenshot</a>
-
-<p><strong>Tip:</strong> Use the transition-duration property to determine the speed of the "hover" effect:</p>
+<!DOCTYPE html>
+<html>
+</head>
+<body>
+   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</body>
+</html>
